@@ -1,0 +1,32 @@
+body {
+  font-family: 'Hanken Grotesk', 'Fira Sans',sans-serif;
+  margin: 0px;
+}
+
+input {
+  display: block;
+  all: unset;
+}
+
+h1, h2, h3, p {
+  margin: 0px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a { 
+  text-decoration: none;
+  display: block;
+}
+
+ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+li { 
+  list-style: none;
+}
